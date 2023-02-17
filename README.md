@@ -1,15 +1,15 @@
 | INFO PROPERTY        | VALUE                                                           |
 | -------------------- | --------------------------------------------------------------- |
-| **Tutorial Name**    | **Creating Theme Templates with Dynamic Content for Elementor** |
+| **Tutorial Name**    | **Create a WordPress Plugin from Scratch [Playlist]** |
 | File Name            | README.md                                                       |
-| Date Created         | 01/31/23                                                        |
+| Date Created         | 02/17/23                                                      |
 | Date Modified        | --                                                              |
 | Platform             | YouTube                                                         |
-| Channel              | Elementor360                                                    |
+| Channel              | Alessandro Castellani                                                    |
 | Version              | 0.0.1                                                           |
 | Programmer / Student | **Eric Hepperle**                                               |
 
-* **Tutorial URL:** https://www.youtube.com/watch?v=KjpuH5w_9Sc
+* **Tutorial URL:** https://www.youtube.com/watch?v=Z7QfH-s-15s
 
 ### TECHNOLOGIES
 
@@ -24,7 +24,7 @@
 
 ## TAGS
 
-`WordPress` `ACF` `Advanced Custom Fields` `Custom Post Types` `WP` `Post Meta` `Plugins` `LinkedIn Learning`
+`WordPress` `ACF` `Advanced Custom Fields` `Custom Post Types` `WP` `Post Meta` `Plugins` `Alecad`
 
 ## Purpose
 
@@ -73,6 +73,7 @@ Full article: https://e360.co/creating-theme-templates-with-dynamic-content-for-
     max-height: 150px;
 
   }
+  .author-info {font-weight: normal; font-size: .8rem;}
   .author-info h3 {padding: 0; margin: 0; font-size: 1.8em}
   .author-info h3 a {color: cornflowerblue; text-decoration: none;}
   .author-info h4 { color: gray; font-weight: 300; margin: 0.4em 0; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
@@ -81,17 +82,17 @@ Full article: https://e360.co/creating-theme-templates-with-dynamic-content-for-
 <section class="author-profile">
   <div class="author-img">
     <img
-      src="https://yt3.ggpht.com/ytc/AL5GRJWU8RdpoOQE4foqst_4jY2X4QF5l2o4zq_jSGto=s88-c-k-c0x00ffffff-no-rj"
-      alt="LinkedIn Learning instructor pic"
+      src="https://yt3.ggpht.com/ytc/AL5GRJXFW7_tIIEEXuQuygVPmuVyV_QnYY4N9Sop3YwLXSQ=s88-c-k-c0x00ffffff-no-rj"
+      alt="Instructor pic"
     />
   </div>
   <div class="author-info">
-    <h3><a href="https://www.youtube.com/@Elementor360" target="_blank">Elementor360</a></h3>
-    <h4>Everything Elementor. News, reviews, interviews and resource listings related to Elementor as well as Elementor friendly themes and plugins.</h4>
+    <h3><a href="https://www.youtube.com/@alecaddd" target="_blank">Alessandro Castellani</a></h3>
+    <h4>Development, Design, Tech news, and other Nerdy stuff.</h4>
+    <p>Tutorials and guides for Developers and Designers that want to learn HTML, CSS, JAVASCRIPT, PHP, WORDPRESS, GIT, LARAVEL, SQL, AWS, VUEJS, and how to bake a potato.</p>
   </div>
 </section>
 
 
 ## Resources
 
-- https://www.youtube.com/watch?v=kJ56pGaWJo0
