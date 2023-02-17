@@ -1,0 +1,7 @@
+Tutorial Info:
+- Title: Create a WordPress Plugin from Scratch - Part 1
+- Full URL: https://www.youtube.com/watch?v=Z7QfH-s-15s&list=PLriKzYyLb28kR_CPMz8uierDWC2y3znI2&index=3
+- Base URL: https://www.youtube.com/watch?v=Z7QfH-s-15s
+- Channel: Alessandro Castellani
+- Channel URL: https://www.youtube.com/@alecaddd
+- Avatar URL: https://yt3.ggpht.com/ytc/AL5GRJXFW7_tIIEEXuQuygVPmuVyV_QnYY4N9Sop3YwLXSQ=s88-c-k-c0x00ffffff-no-rj
