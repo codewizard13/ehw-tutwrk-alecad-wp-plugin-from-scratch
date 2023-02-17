@@ -28,7 +28,7 @@
 
 ## Purpose
 
-**<u>Tutorial Work:</u>** Learn WordPress custom post types and Advanced Custom Fields (ACF).
+**<u>Tutorial Work:</u>** Learn how to build a WordPress plugin from scratch with best practices and security measures.
     
 ## Requires
 
@@ -39,12 +39,7 @@
 
 <div>
 
-Tutorial showing how to create theme templates using Dynamic Content for Elmentor
-
-2019 - Get a 10% discount with coupon:  ILOVEDYNAMIC
-Visit the Dynamic.ooo website:  [https://e360.co/go/dynamiccontentfore... (affiliate link)](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbm1FbGM3cFVnZmlNSkpRSC1vUWZoMjhoNjVhZ3xBQ3Jtc0ttZE9XVzhEcEtDZC1rQURMaDVRV3VRZFZBMV9QbEo3MjdCYjFSNzVZYXJ2NVktYzNtdjlCUUR1RzJCVk5Xa2w5cDVJM1FZM0RwbC0xaDNzeFlodkRnMGxTaE9peldHRHAwTmVHaFgycnppY0kzQU44UQ&q=https%3A%2F%2Fe360.co%2Fgo%2Fdynamiccontentforelementor%2F&v=KjpuH5w_9Sc)
-
-Full article: https://e360.co/creating-theme-templates-with-dynamic-content-for-elementor/
+A multi-part tutorial playlist teaching how to create a WordPress plugin from scratch.
 
 </div>
 
@@ -73,10 +68,17 @@ Full article: https://e360.co/creating-theme-templates-with-dynamic-content-for-
     max-height: 150px;
 
   }
-  .author-info {font-weight: normal; font-size: .8rem;}
-  .author-info h3 {padding: 0; margin: 0; font-size: 1.8em}
+  .author-info {    color: darkcyan;
+    font-weight: 400;
+    font-family: roboto, 'open sans', arial, sans-serif;
+    margin: 0;
+    line-height: 1.2;
+    font-size: .8rem;
+  }
+
+  .author-info h3 {padding: 0; margin: 0; font-size: 1.8rem}
   .author-info h3 a {color: cornflowerblue; text-decoration: none;}
-  .author-info h4 { color: gray; font-weight: 300; margin: 0.4em 0; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+  .author-info h4 { font-size: 1rem; color: gray; font-weight: 300; margin: 0.4rem 0; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
 </style>
 
 <section class="author-profile">
@@ -92,7 +94,3 @@ Full article: https://e360.co/creating-theme-templates-with-dynamic-content-for-
     <p>Tutorials and guides for Developers and Designers that want to learn HTML, CSS, JAVASCRIPT, PHP, WORDPRESS, GIT, LARAVEL, SQL, AWS, VUEJS, and how to bake a potato.</p>
   </div>
 </section>
-
-
-## Resources
-
